@@ -1,5 +1,5 @@
 {
-  "name": "seo/checker",
+  "name": "seowebmaker/seocheck",
   "description": "Simple SEO checker project",
   "type": "project",
   "require": {
